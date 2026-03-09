@@ -91,3 +91,13 @@ Start the React application.
 cd server
 npm install
 npm start
+
+
+
+ Example 1
+![Example 1](screenshots/example1.png)
+
+ Example 2
+![Example 2](screenshots/example2.png)
+ Example 3
+![Example 3](screenshots/example3.png)
